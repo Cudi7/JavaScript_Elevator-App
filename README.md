@@ -2,7 +2,7 @@
 
 # Live demo
 
-> https://elevator-app-rc.herokuapp.com/
+> https://nostalgic-benz-337914.netlify.app
 
 ![Design preview for the  coding challenge](./Screenshot_1.jpg)
 
